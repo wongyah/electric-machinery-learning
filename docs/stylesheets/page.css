@@ -4,3 +4,9 @@
   border: .05rem solid var(--md-default-fg-color--lightest);
   border-top: none;
 }
+
+/* Align standalone images to center */
+.standalone {
+  display: block;
+  margin: auto;
+}
