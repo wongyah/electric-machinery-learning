@@ -127,7 +127,8 @@ $$
 \end{align*}
 $$
 
-> 由于铁芯的磁导率是空气的 4000 倍，虽然气隙的长度仅仅是铁芯的 1/800，但气隙的磁阻却达到铁芯的 5 倍左右。
+!!! tip "提示"
+    由于铁芯的磁导率是空气的 4000 倍，虽然气隙的长度仅仅是铁芯的 1/800，但气隙的磁阻却达到铁芯的 5 倍左右。
 
 如果气隙处的磁通密度为 0.5 T，那么磁路中的磁通量可计算如下：
 
@@ -251,11 +252,4 @@ $$
 \end{align*}
 $$
 
-## 参考资料
-
-1. Stephen J. Chapman. Electric Machinery Fundamentals: fifth edition. Australia: McGraw-Hill, 2012: 14-21.
-2. 汤蕴璆. 电机学: 第五版. 北京: 机械工业出版社, 2014: 9.
-
-<!-- link definition -->
-
-[磁路中的欧姆定律]: ohms-law-in-magnetic-circuit.md
+--8<-- "links.md"

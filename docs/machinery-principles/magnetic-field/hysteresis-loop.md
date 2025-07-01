@@ -86,15 +86,5 @@
 通常，将铁芯中的磁滞损耗和涡流损耗加在一起，合称为**铁芯损耗**。
 
 
-## 参考资料
 
-1. Stephen J. Chapman. Electric Machinery Fundamentals: fifth edition. Australia: McGraw-Hill, 2012: 26-28.
-2. 汤蕴璆. 电机学: 第五版. 北京: 机械工业出版社, 2014: 10-15
-
-
-<!-- link definition -->
-[磁化曲线]: magnetization-curve.md
-
-[安培环路定律]: amperes-law.md
-
-[磁通量]: amperes-law.md
+--8<-- "links.md"

@@ -61,19 +61,5 @@ $$
 因此在设计电机和变压器时，通常将铁芯的工作点选择在磁化曲线的膝部（膝点附近）。在膝部，铁芯的磁导率不是常数，即铁芯中的磁通量与磁场强度是非线性关系。电机和变压器工作中产生的很多奇异现象，都与这种非线性关系有关。
 
 
-## 参考资料
 
-1. Stephen J. Chapman. Electric Machinery Fundamentals: fifth edition. Australia: McGraw-Hill, 2012: 21-25.
-2. 汤蕴璆. 电机学: 第五版. 北京: 机械工业出版社, 2014: 11.
-
-<!-- link definition -->
-
-[安培环路定律]: amperes-law.md
-
-[磁通密度与磁场强度的关系式]: amperes-law.md
-
-[磁通量]: amperes-law.md
-
-[磁路中的欧姆定律]: ohms-law-in-magnetic-circuit.md
-
-[练习]: examples.md
+--8<-- "links.md"

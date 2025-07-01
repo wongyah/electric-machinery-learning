@@ -162,16 +162,5 @@ $$
     使用磁路计算磁通量时，如果对铁芯的平均长度和横截面积的值进行修正，可以提高计算结果的精确性。
 
 
-## 参考资料
 
-1. Stephen J. Chapman. Electric Machinery Fundamentals: fifth edition. Australia: McGraw-Hill, 2012: 11-14.
-2. 汤蕴璆. 电机学: 第五版. 北京: 机械工业出版社, 2014: 8-9.
-3. 闫金铎. 物理: 九年级 全一册. 北京: 北京师范大学出版社, 2013: 86-96.
-
-<!-- link definition -->
-
-[安培环路定律]: amperes-law.md
-
-[带有载流线圈的铁芯]: amperes-law.md
-
-[铁芯中的磁通量]: amperes-law.md
+--8<-- "links.md"

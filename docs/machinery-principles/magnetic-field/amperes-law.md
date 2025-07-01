@@ -141,12 +141,6 @@ $$
 
 其中，A 是铁芯的横截面积。
 
-## 参考资料
-
-1. Stephen J. Chapman. Electric Machinery Fundamentals: fifth edition. Australia: McGraw-Hill, 2012: 8-11.
-2. 汤蕴璆. 电机学: 第五版. 北京: 机械工业出版社, 2014: 7-9.
-3. 赵凯华, 陈熙谋. 电磁学. 北京: 高等教育出版社, 2003: 218-282.
-
 <!-- link definition -->
 
 [电机的理论基础]: ../../index.md

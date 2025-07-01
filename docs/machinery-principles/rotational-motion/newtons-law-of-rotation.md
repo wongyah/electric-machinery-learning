@@ -50,12 +50,3 @@ $$
 在国际单位制中，转动惯量的度量单位是千克·米^2^（kg·m^2^）。
 
 
-## 参考资料
-
-1. Stephen J. Chapman. Electric Machinery Fundamentals: fifth edition. Australia: McGraw-Hill, 2012: 5-7.
-2. 彭前程. 物理: 八年级下册. 北京: 人民教育出版社，2012: 17.
-3. 彭前程. （普通高中教科书）物理: 第一册. 北京: 人民教育出版社，××××: 89.
-
-<!-- link definitions -->
-
-[原文]: https://mp.weixin.qq.com/s?__biz=MzkyMDM4MDE4Mw==&mid=2247483871&idx=1&sn=e6b1e85722025dbf2f36ebff09049498&chksm=c192f7a7f6e57eb1bd7e600cdb6f5bd8c53124714069870742df3e9e3e21c7916dc88b6a59ee#rd

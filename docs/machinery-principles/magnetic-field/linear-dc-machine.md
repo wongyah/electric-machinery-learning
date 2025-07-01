@@ -103,13 +103,4 @@ $$
 
 ![直线直流电机简易模型的启动过程](https://pic2.zhimg.com/v2-d5e5b1a0ba12943d004dd372f6caa331_b.webp "直线直流电机简易模型的启动过程"){:.standalone}
 
-## 参考资料
-
-1. Stephen J. Chapman. Electric Machinery Fundamentals: fifth edition \[M]. Australia: McGraw-Hill, 2012: 36-39.
-2. 百度百科. [基尔霍夫电压定律](https://baike.baidu.com/item/%E5%9F%BA%E5%B0%94%E9%9C%8D%E5%A4%AB%E7%94%B5%E5%8E%8B%E5%AE%9A%E5%BE%8B/7840399)\[OL]. (2023-12-23)\[2023-12-25].
-
-<!-- link definition -->
-
-[动生电动势]: induced-voltage.md
-
-[安培力]: induced-force.md
+--8<-- "links.md"

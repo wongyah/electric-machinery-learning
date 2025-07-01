@@ -96,8 +96,4 @@ $$
 
 旋转运动的功率计算公式可以用来计算电动机或发电机的功率，是电机学中最重要的内容之一。
 
-## 参考资料
-
-1. Stephen J. Chapman. Electric Machinery Fundamentals: fifth edition. Australia: McGraw-Hill, 2012: 7-8.
-2. 彭前程, 黄恕伯. 普通高中教科书 物理: 必修 第二册. 北京: 人民教育出版社，2019: 73-76.
 

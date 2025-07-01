@@ -85,19 +85,5 @@ $$
 
 这两种减少涡流损耗的方法既可以单独使用，也可以一起使用。如果一起使用，铁芯的涡流损耗将比磁滞损耗小得多得多得多。
 
-## 参考资料
 
-1. Stephen J. Chapman. Electric Machinery Fundamentals: fifth edition \[M]. Australia: McGraw-Hill, 2012: 28-33.
-2. 赵凯华, 陈熙谋. 电磁学 \[M]. 北京: 高等教育出版社, 2003: 155-162.
-3. 宝钢硅钢.[（宝钢硅钢）发展历史](http://ecommerce.ibaosteel.com/baosteel_products/eleSteel/cn/products/products_01.jsp) \[OL].
-4. 百度百科. [电工钢（软磁合金）](https://baike.baidu.com/item/%E7%94%B5%E5%B7%A5%E9%92%A2/338598?fromtitle=%E7%A1%85%E9%92%A2%E7%89%87&fromid=10306574&fr=aladdin) \[OL].
-
-<!-- link definition -->
-
-[安培环路定律]: amperes-law.md
-
-[磁路中的欧姆定律]: ohms-law-in-magnetic-circuit.md
-
-[磁化曲线]: magnetization-curve.md
-
-[磁滞曲线]: hysteresis-loop.md
+--8<-- "links.md"

@@ -101,8 +101,4 @@ $$
 !!! tip "小贴士"
     上式中角速度符号使用的是 ω，说明角速度的单位是弧度/秒。
 
-## 参考资料
-
-1. Stephen J. Chapman. Electric Machinery Fundamentals: fifth edition. Australia: McGraw-Hill, 2012: 3-4.
-2. 赵凯华, 罗蔚茵. 新概念物理教程: 力学. 高等教育出版社, 2004: 171-176.
 

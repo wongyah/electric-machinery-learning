@@ -85,13 +85,5 @@ $$
 
 其中，τ~ind~ 是安培力 F~ind~ 在旋转运动中的对应物理量，角速度 ω 是速率 v 在旋转运动中的对应物理量。
 
-## 参考资料
 
-1. Stephen J. Chapman. Electric Machinery Fundamentals: fifth edition \[M]. Australia: McGraw-Hill, 2012: 39-41.
-
-<!-- link definition -->
-[直线直流电机]: linear-dc-machine.md
-
-[动生电动势]: induced-voltage.md
-
-[安培力]: induced-force.md
+--8<-- "links.md"

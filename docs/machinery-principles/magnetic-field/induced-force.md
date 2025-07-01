@@ -104,19 +104,5 @@ $$
 
 由于国内外使用的判断手法不同，叫法也不相同。如果你需要检索外文资料，就得按照国外的习惯输入关键词。否则，你就很难找到想要的内容了。
 
-## 参考资料
 
-1. Stephen J. Chapman. Electric Machinery Fundamentals: fifth edition. Australia: McGraw-Hill, 2012: 33-34.
-2. 赵凯华, 陈熙谋. 电磁学. 北京: 高等教育出版社, 2003: 117-129.
-3. 彭前程, 黄恕伯. （普通高中教科书）物理: 选择性必修 第二册. 北京: 人民教育出版社，2019: 1-16.
-
-<!-- link definition -->
-[电磁感应定律]: faradays-law.md
-
-[安培环路定律]: amperes-law.md
-
-[磁路中的欧姆定律]: ohms-law-in-magnetic-circuit.md
-
-[磁化曲线]: magnetization-curve.md
-
-[磁滞曲线]: hysteresis-loop.md
+--8<-- "links.md"

@@ -76,6 +76,20 @@ nav:
       - machinery-principles/magnetic-field/induced-voltage.md
       - machinery-principles/magnetic-field/linear-dc-machine.md
       - machinery-principles/magnetic-field/linear-dc-motor.md
+      - machinery-principles/magnetic-field/linear-dc-generator.md
+    - 功率:
+      - machinery-principles/powers-in-ac-circuits/powers-in-single-phase-ac-circuits.md
+      - machinery-principles/powers-in-ac-circuits/relationships-between-the-powers.md
+  - 变压器:
+    - 理想变压器:
+      - transformers/ideal-transformers/ideal-transformer-turns-ratio-and-dot-convention.md
+      - transformers/ideal-transformers/current-radio.md
+      - transformers/ideal-transformers/impedance-transformation.md
+      - transformers/ideal-transformers/circuit-analysis.md
+    - 实际变压器:
+      - transformers/real-transformers/real-transformer-voltage-ratio.md
+      - transformers/real-transformers/real-transformer-magnetization-current.md
+      - transformers/real-transformers/physical-meaning-of-the-dot-convention.md
 
 markdown_extensions:
   - nl2br

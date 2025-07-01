@@ -92,24 +92,5 @@ $$
 
 感兴趣的小伙伴儿，可以去搜索一下，说不定以后查阅外文资料的时候用得到呢！
 
-## 参考资料
 
-1. Stephen J. Chapman. Electric Machinery Fundamentals: fifth edition \[M]. Australia: McGraw-Hill, 2012: 34-36.
-2. 赵凯华, 陈熙谋. 电磁学\[M]. 北京: 高等教育出版社, 2003: 162-164.
-3. 彭前程, 黄恕伯. （普通高中教科书）物理: 选择性必修 第二册\[M]. 北京: 人民教育出版社，2019: 28.
-4. BYJU'S. [Fleming’s Left-Hand Rule and Fleming’s Right-Hand Rule](https://byjus.com/physics/flemings-left-hand-rule-and-right-hand-rule/) \[OL]. (2023-05-05)\[2023-11-01].
-
-
-<!-- link definition -->
-[安培力]: induced-force.md
-
-[电磁感应定律]: faradays-law.md
-
-[安培环路定律]: amperes-law.md
-
-[磁路中的欧姆定律]: ohms-law-in-magnetic-circuit.md
-
-[磁化曲线]: magnetization-curve.md
-
-[磁滞曲线]: hysteresis-loop.md
-
+--8<-- "links.md"
