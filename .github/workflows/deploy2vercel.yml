@@ -1,3 +1,5 @@
+# This workflow is copied from [MkDocs+Vercel](https://mkdocs.celsiusnarhwal.dev/).
+
 name: Deploy Materials to Vercel
 
 on:
