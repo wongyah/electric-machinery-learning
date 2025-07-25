@@ -74,22 +74,24 @@ nav:
       - machinery-principles/magnetic-field/faradays-law.md
       - machinery-principles/magnetic-field/induced-force.md
       - machinery-principles/magnetic-field/induced-voltage.md
-      - machinery-principles/magnetic-field/linear-dc-machine.md
+      - 直线直流电机的工作原理: machinery-principles/magnetic-field/linear-dc-machine.md
       - machinery-principles/magnetic-field/linear-dc-motor.md
       - machinery-principles/magnetic-field/linear-dc-generator.md
     - 功率:
-      - machinery-principles/powers-in-ac-circuits/powers-in-single-phase-ac-circuits.md
+      - 有功功率、无功功率和视在功率: machinery-principles/powers-in-ac-circuits/powers-in-single-phase-ac-circuits.md
       - machinery-principles/powers-in-ac-circuits/relationships-between-the-powers.md
   - 变压器:
     - 理想变压器:
-      - transformers/ideal-transformers/ideal-transformer-turns-ratio-and-dot-convention.md
-      - transformers/ideal-transformers/current-radio.md
-      - transformers/ideal-transformers/impedance-transformation.md
-      - transformers/ideal-transformers/circuit-analysis.md
+      - 匝数比、电压比和同名端标记: transformers/ideal-transformers/ideal-transformer-turns-ratio-and-dot-convention.md
+      - 电流比、相量比和功率守恒: transformers/ideal-transformers/current-radio.md
+      - 阻抗变换: transformers/ideal-transformers/impedance-transformation.md
+      - 绕组归算: transformers/ideal-transformers/circuit-analysis.md
     - 实际变压器:
-      - transformers/real-transformers/real-transformer-voltage-ratio.md
-      - transformers/real-transformers/real-transformer-magnetization-current.md
-      - transformers/real-transformers/physical-meaning-of-the-dot-convention.md
+      - 电压比: transformers/real-transformers/real-transformer-voltage-ratio.md
+      - 励磁电流: transformers/real-transformers/real-transformer-magnetization-current.md
+      - 同名端标记的物理意义: transformers/real-transformers/physical-meaning-of-the-dot-convention.md
+    - 等效电路:
+      - T形等效电路: transformers/equivalent-circuit/equivalent-circuit-of-real-transformer.md
   - references.md
 
 markdown_extensions:

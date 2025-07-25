@@ -29,3 +29,5 @@
 [实际变压器的电压比]: ../../transformers/real-transformers/real-transformer-voltage-ratio.md
 [实际变压器的励磁电流]: ../../transformers/real-transformers/real-transformer-magnetization-current.md
 [同名端标记的物理意义]: ../../transformers/real-transformers/physical-meaning-of-the-dot-convention.md
+
+[T形等效电路]: ../../transformers/equivalent-circuit/equivalent-circuit-of-real-transformer.md
