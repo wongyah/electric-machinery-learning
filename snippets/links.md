@@ -31,3 +31,4 @@
 [同名端标记的物理意义]: ../../transformers/real-transformers/physical-meaning-of-the-dot-convention.md
 
 [T形等效电路]: ../../transformers/equivalent-circuit/equivalent-circuit-of-real-transformer.md
+[近似等效电路]: ../../transformers/equivalent-circuit/approximate-equivalent-circuit-of-a-transformer.md
