@@ -93,6 +93,7 @@ nav:
     - 等效电路:
       - T形等效电路: transformers/equivalent-circuit/equivalent-circuit-of-real-transformer.md
       - 近似和简化等效电路: transformers/equivalent-circuit/approximate-equivalent-circuit-of-a-transformer.md
+      - 参数测定: transformers/equivalent-circuit/component-values-in-transformer-model.md
   - references.md
 
 markdown_extensions:
